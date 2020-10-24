@@ -35,7 +35,7 @@ sls deploy
 
 # 13. Go to AWS console, setup an IAM key thingie.
 
-15.
+15. `npm install -g serverless-s3-sync`
 
 ## Setting Up Icons in Airtable
 
