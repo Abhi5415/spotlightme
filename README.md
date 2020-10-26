@@ -1,5 +1,7 @@
 # Spotlightme
 
+Note that this project is in progress!
+
 ## How to configure your own site with this template
 
 1. Fork this repository

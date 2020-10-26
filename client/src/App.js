@@ -9,7 +9,7 @@ export default function App() {
 
   useEffect(() => {
     let fetchData = async () => {
-      let res = await axios.get("d1isso4jxmmjd7.cloudfront.net");
+      let res = await axios.get("https://d1isso4jxmmjd7.cloudfront.net/");
       setData(res.data);
     };
     fetchData();
